@@ -797,6 +797,7 @@ footer ul li a:hover{
         .courses_container{
             grid-template-columns: 1fr;
             width: 80%;
+            text-align: justify;
         }
         .faqs_container h4{
             
