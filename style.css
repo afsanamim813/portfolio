@@ -402,6 +402,9 @@ font-weight: 500;
 .bar .progress-line.c span{
     width: 50%;
 }
+.bar .progress-line.java span{
+    width: 70%;
+}
 .progress-line span::before{
     position: absolute;
     content: "";
