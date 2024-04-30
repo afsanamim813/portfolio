@@ -519,6 +519,7 @@ animation: showText2 0.5s 1s linear forwards;
 .course_info p{
     margin: 1.2rem 0 2rem;
     font-size: 0.9rem;
+    text-align: justify;
 }
 /*===========Frequently ask question section==========*/
 .faqs{
