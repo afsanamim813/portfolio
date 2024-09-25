@@ -214,7 +214,7 @@ font-weight: 500;
     align-items: center;
     justify-content: center;
     position: relative;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
 }
 .about_container .about_img{
     border: 3px solid var(--primary);
@@ -245,6 +245,11 @@ color: var(--primary);
 font-weight: 500;
 }
 /*========Services section===========*/
+.skills, .education{
+    text-align: center;
+    margin-top: -5rem;
+}
+
 .services{
     text-align: center;
     margin-top: -5rem;
