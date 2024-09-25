@@ -245,7 +245,7 @@ color: var(--primary);
 font-weight: 500;
 }
 /*========Services section===========*/
-.skills, .education{
+.skills, .education, .certification{
     text-align: center;
     margin-top: -5rem;
 }
